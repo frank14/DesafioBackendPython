@@ -1,3 +1,4 @@
-request: import requests, Requests officially supports Python 2.7 & 3.6+.
-for regular expression: import re
 versión de python: 3
+request module: pip install requests, installed requests-2.27.1
+request library: import requests, Requests officially supports Python 2.7 & 3.6+.
+for regular expression: import re
