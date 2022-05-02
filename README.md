@@ -8,7 +8,7 @@
 
 1. Ingresar a la plataforma Google Colab para ejecutar el proyecto en formato notebook desde la nube haciendo clic en [![Ejecutar Proyecto](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frank14/DesafioBackendPython/blob/main/Backend_Challenge_.ipynb)
 2. Hacer clic en la pestaña 'Entorno de ejecución'
-3. Y dar clic en 'Ejecutar todo' o ctrl + F9 en windows
+3. Y dar clic en 'Ejecutar todo' o Ctrl + F9 en windows
 ![Pasos para ejecutar proyecto](https://i.ibb.co/Y3F9s5n/Ejecutar-Google-Colab.png)
 4. Las respuestas se mostraran antes que el menú de opciones el cual puede ingresar la letra S para ver la explicación de la respuesta o la letra N para omitirla
 5. Tambien puede ejecutar las instrucciones en orden si lo prefiere, pero debe hacerce de 1 en una empezando desde arriba sin saltarse ninguna ejecución
